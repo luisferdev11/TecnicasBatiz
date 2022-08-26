@@ -4,4 +4,4 @@ La parte del proyecto aula de python se encuentra en el siguiente link: https://
 If you want to run the programs use your Python virtual envioronment, in this case no program has it because I created one venv per program and I didn't use the global one, so the original file is very heavy.
 Final python project including flask modules and linear regression model here: https://github.com/luisferdev11/BearCareful.
 
-Biba Batiz
+Biba Batiz!!!
